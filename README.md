@@ -15,3 +15,7 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 5. Assign Full Control to the respective group without altering other permissions.
 
 ## Steps to Configure NTFS Permissions
+
+body {
+ background-color: #FFEBEE
+}
