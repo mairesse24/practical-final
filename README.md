@@ -19,6 +19,6 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 ### Step 1: Accessing Folder Properties
 
 1. Open **File Explorer** and navigate to the `D:\` drive.
-<img src="[https://imgur.com/a/EU0W7WZ.png](https://imgur.com/a/EU0W7WZ)" alt="file explorer"/>
+<img src="![Screenshot 2024-08-04 205518](https://github.com/user-attachments/assets/ae0df4e3-41cf-411c-a9f3-7e0dcf0562f7)" alt="file explorer"/>
 
 ![Screenshot 2024-08-04 205518](https://github.com/user-attachments/assets/ae0df4e3-41cf-411c-a9f3-7e0dcf0562f7)
