@@ -61,7 +61,7 @@ or
 --------------------------------------
 
 ###  Set Permissions for the Night Data Folder
-To set permissions for folder (`D:\Night Data` for NightGroup), repeat Steps 1 through 5, followolling the same process to set the appropriate permissions.
+To set permissions for folder (`D:\Night Data` for NightGroup), repeat Steps 1 through 5, following the same process to set the appropriate permissions.
 
 1. **Access the Folder Properties**:
    - Right-click on the `D:\Night Data` folder
@@ -72,4 +72,10 @@ To set permissions for folder (`D:\Night Data` for NightGroup), repeat Steps 1 t
    - Select and remove "user".
    - Add NightGroup and grant it permissions by checking on "Full Control" under the allow column
 
-     
+
+
+## Final Note on Permissions
+After setting the permissions for both the D:\Day Data and D:\Night Data folders, it’s essential to verify the settings to ensure that the permissions were configured correctly. To do this, return to the Security tab in the folder properties of each folder to confirm that the intended groups have the appropriate permissions. This step helps prevent issues related to access rights and ensures that users can perform the required tasks without difficulties.
+
+## Conclusion
+By following these steps, I successfully configured NTFS permissions for both `D:\Day Data` and `D:\Night Data` folders. This configuration ensures that each group has the necessary access while enhancing the overall security of the corporate network. The implementation of explicit permissions and the removal of the Users group prevents unauthorized access, making a significant contribution to the security posture of our organization.     
