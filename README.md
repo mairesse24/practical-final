@@ -20,6 +20,7 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 
 1. Open **File Explorer** and navigate to the D:\ drive. 
   ![file explorer](https://github.com/user-attachments/assets/80c8b467-37c6-4f95-8aac-e99de91bf7ec)
+<img src="[https://i.imgur.com/DJmEXEB.png](https://ibb.co/Gc977hd)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 2. Right-click on the `Day Data` folder and select **Properties**, then navigate to the **Security** tab.
   ![DayData properties](https://github.com/user-attachments/assets/c1cbcc34-325c-4032-a071-f328f2109dd8)
    The cursor is placed in the properties section.
@@ -38,10 +39,10 @@ or   (“This action keeps the current permissions but allows you to change them
   After removing users group, DayData properties should look like this:
   ![after removing usergrp](https://github.com/user-attachments/assets/71cbf77e-08c1-4d59-81ad-eb27d94868de)
 
-3. Click on **Edit** to introduce a new group to the ACL, then press "Add". 
+2. Click on **Edit** to introduce a new group to the ACL, then press "Add". 
   ![press add for new](https://github.com/user-attachments/assets/f7d125f0-20cf-4638-b7cd-8a0e8de156f5)
 
-4. In the **Enter the object names to select**, enter DayGroup, then click **Check Names** to validate, and click OK
+3. In the **Enter the object names to select**, enter DayGroup, then click **Check Names** to validate, and click OK
   ![check daygroup name](https://github.com/user-attachments/assets/2beba819-168f-4e4e-9c9f-045e72011964)
 After adding DayGroup, it should look like this:
 ![after adding Daygrp](https://github.com/user-attachments/assets/d0c7a8de-1705-4ea7-9c73-3fca5a089517)
@@ -56,7 +57,7 @@ now explain why check full
 or
 (Checking "Full Control" grants the group complete access to the folder, enabling them to read, write, modify, and delete files as needed. This is important for users who need comprehensive access to manage the contents of the folder effectively.)
 
-4. Click **Apply** and then **OK** to finalize the changes for this folder.
+3. Click **Apply** and then **OK** to finalize the changes for this folder.
 (This step ensures that your updates take effect and that the specified permissions are enforced.)
 --------------------------------------
 
@@ -68,7 +69,7 @@ To set permissions for folder (`D:\Night Data` for NightGroup), repeat Steps 1 t
    - Select "Properties."
    - Go to the "Security" tab and disable inheritance
 
-4. **Remove and add NightGroup, and set it permissions**:
+2. **Remove and add NightGroup, and set it permissions**:
    - Select and remove "user".
    - Add NightGroup and grant it permissions by checking on "Full Control" under the allow column
 
