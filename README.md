@@ -19,5 +19,5 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 ### Step 1: Accessing Folder Properties
 
 1. Open **File Explorer** and navigate to the `D:\` drive.
-<img src="https://imgur.com/a/EU0W7WZ.png" alt="file explorer"/>
+<img src="[https://imgur.com/a/EU0W7WZ.png](https://imgur.com/a/EU0W7WZ)" alt="file explorer"/>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
