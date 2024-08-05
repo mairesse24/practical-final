@@ -31,9 +31,9 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 or   (“This action keeps the current permissions but allows you to change them as needed.”)
    ![daydate inheritence](https://github.com/user-attachments/assets/aeb8bb96-122c-4953-9972-e808c7b8f6ac)
    
-### Step 3: Removing the Users Group from the ACL and  Adding the Appropriate Group
+### Step 2: Removing the Users Group from the ACL and  Adding the Appropriate Group
 
-1. In the **Permission Entries** section, find and select the **Users** group, then click on the **Remove** button. Confirm it removal by selecting "OK."
+1. In the **Permission Entries** section, find and select the **Users** group, then click on the **Remove** button. Confirm its removal by selecting "OK."
   ![remove users group](https://github.com/user-attachments/assets/7a4c4b3c-8e68-4830-b425-4e7e1122996f)
   After removing users group, DayData properties should look like this:
   ![after removing usergrp](https://github.com/user-attachments/assets/71cbf77e-08c1-4d59-81ad-eb27d94868de)
@@ -70,6 +70,6 @@ To set permissions for folder (`D:\Night Data` for NightGroup), repeat Steps 1 t
 
 4. **Remove and add NightGroup, and set it permissions**:
    - Select and remove "user".
-   - Add NightGroup and gant it permissions by checking on "Full Control" under the allow column
+   - Add NightGroup and grant it permissions by checking on "Full Control" under the allow column
 
      
