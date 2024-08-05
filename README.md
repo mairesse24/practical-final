@@ -20,7 +20,8 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 
 1. Open **File Explorer** and navigate to the D:\ drive. 
   ![file explorer](https://github.com/user-attachments/assets/80c8b467-37c6-4f95-8aac-e99de91bf7ec)
-<img src="[https://i.imgur.com/DJmEXEB.png](https://ibb.co/Gc977hd)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 2. Right-click on the `Day Data` folder and select **Properties**, then navigate to the **Security** tab.
   ![DayData properties](https://github.com/user-attachments/assets/c1cbcc34-325c-4032-a071-f328f2109dd8)
    The cursor is placed in the properties section.
