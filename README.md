@@ -21,8 +21,6 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 1. Open **File Explorer** and navigate to the D:\ drive. 
   ![file explorer](https://github.com/user-attachments/assets/80c8b467-37c6-4f95-8aac-e99de91bf7ec)
 
-<img src='https://i.postimg.cc/1fM1pW8K/file-explorer.png' height="80%" width="80%" alt='file-explorer'/></a>
-
 <a href="https://ibb.co/Gc977hd"><img src="https://i.ibb.co/hDcssqg/file-explorer.png" alt="file-explorer" border="0" /></a>
 
 2. Right-click on the `Day Data` folder and select **Properties**, then navigate to the **Security** tab.
