@@ -16,6 +16,8 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 
 ## Steps to Configure NTFS Permissions
 
-body {
- background-color: #FFEBEE
-}
+### Step 1: Accessing Folder Properties
+
+1. Open **File Explorer** and navigate to the `D:\` drive.
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="file explorer"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
