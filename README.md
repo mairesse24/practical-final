@@ -23,18 +23,19 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
       <img src='https://i.postimg.cc/XJfX2KN4/file-explorer.png' alt='file-explorer' style="width: 60%; max-width: 700px;"/>
   </a>
 
-
 2. Right-click on the `Day Data` folder and select **Properties**, then navigate to the **Security** tab.
   ![DayData properties](https://github.com/user-attachments/assets/5afb94ea-fd68-42ee-bb1a-1631156cdc7e)
 
-   <a href='https://postimg.cc/DJz20XbM'>
-      <img src='https://i.postimg.cc/XJfX2KN4/file-explorer.png alt='Day-Data-properties' style="width: 60%; max-width:               700px;"/>
-  </a>
+   <a href='https://postimg.cc/zH5FTq86' target='_blank'>
+      <img src='https://i.postimg.cc/BbP79vyS/Day-Data-properties.png' border='0' alt='Day Data Properties' style="width:               50%;  max-width: 600px;"/>
+    </a>
+   
    The cursor is placed in the properties section.
   ![Data security prop](https://github.com/user-attachments/assets/d1abaa8a-e518-42a7-bdfa-3becda4cb06d)
 
 4. Click on the **Advanced** button within the Security tab.
    ![daydata advance prop](https://github.com/user-attachments/assets/c7140689-2ba4-4e79-af46-dc2fd198297c)
+----
 5. In the Advanced Security Settings, select Disable inheritance.
      -This action ensures that the existing permissions are kept and allows you to be modify them explicitly.
    ![daydate inheritence](https://github.com/user-attachments/assets/aeb8bb96-122c-4953-9972-e808c7b8f6ac)
