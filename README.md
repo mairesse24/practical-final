@@ -33,7 +33,7 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 3. Click on the **Advanced** button within the Security tab.   
    <img src="https://i.postimg.cc/HsBzZXjw/daydata-advance-prop.png" alt="Daydata Advance Prop" style="width: 70%; height:       400px;">
 
-6. In the Advanced Security Settings, select Disable inheritance.
+4. In the Advanced Security Settings, select Disable inheritance and convert permissions from inherited to explicit.
 
    This action ensures that the existing permissions are kept and allows you to be modify them explicitly.
    <img src="https://i.postimg.cc/Njn4Yt6L/daydate-inheritence.png" alt="Daydate Inheritance" style="width: 60%; height:         400px;">
