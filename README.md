@@ -30,9 +30,7 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
    
       <img src="https://i.postimg.cc/7LsyqfB0/Data-security-prop.png" alt="Data Security Prop" style="width: 700px; height:             400px;">
 
-4. Click on the **Advanced** button within the Security tab.
-   ![daydata advance prop](https://github.com/user-attachments/assets/c7140689-2ba4-4e79-af46-dc2fd198297c)
-   
+4. Click on the **Advanced** button within the Security tab.   
    <img src="https://i.postimg.cc/HsBzZXjw/daydata-advance-prop.png" alt="Daydata Advance Prop" style="width: 700px; height:       400px;">
 
 6. In the Advanced Security Settings, select Disable inheritance.
@@ -54,13 +52,13 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
   <img src="https://i.postimg.cc/T2k5B9q3/check-daygroup-name.png" alt="Check Daygroup Name" style="width: 600px; height: 300px;">
 
 After adding DayGroup, it should look like this:
-  <img src="https://i.postimg.cc/QxHKDT0k/after-adding-Daygrp.png" alt="After Adding Daygrp" style="width: 650px; height: 300px;">
+  <img src="https://i.postimg.cc/QxHKDT0k/after-adding-Daygrp.png" alt="After Adding Daygrp" style="width: 50%; height: 300px;">
 
 ### Step 5: Assign Full Control Permissions
 
 1. Select the new group that we just added "DayGroup". 
 2. Below, in the "Permissions for DayGroup" section, in the "Allow" column, check **Full Control**. 
-<img src="https://i.postimg.cc/N0wKRPYp/check-full-for-daygrp.png" alt="Check Full for Daygrp" style="width: 700px; height: 400px;">
+<img src="https://i.postimg.cc/N0wKRPYp/check-full-for-daygrp.png" alt="Check Full for Daygrp" style="width: 50%; height: 400px;">
 
   Explaination: Checking "Full Control" grants the group complete access to the folder, enabling them to read, write,           modify, and delete files as needed.
 
