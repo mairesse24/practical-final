@@ -47,17 +47,17 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
   After removing users group, DayData properties should look like this:
     <img src="https://i.postimg.cc/SK0MDxLL/after-removing-usergrp.png" alt="After Removing User Group" style="width: 50%; height: 400px;">
 
-3. Click on **Edit** to introduce a new group to the ACL, then press **Add**. 
+2. Click on **Edit** to introduce a new group to the ACL, then press **Add**. 
   <img src="https://i.postimg.cc/KjYkRkFb/press-add-for-new.png" alt="Press Add for New" style="width: 50%; height: 400px;">
 
-4. In the **Enter the object names to select**, enter DayGroup, then click **Check Names** to validate, and click OK
+3. In the **Enter the object names to select**, enter DayGroup, then click **Check Names** to validate, and click OK
   <img src="https://i.postimg.cc/T2k5B9q3/check-daygroup-name.png" alt="Check Daygroup Name" style="width: 600px; height: 300px;">
 
 After adding DayGroup, it should look like this:
 
   <img src="https://i.postimg.cc/QxHKDT0k/after-adding-Daygrp.png" alt="After Adding Daygrp" style="width: 50%; height: 480px;">
 
-### Step 5: Assign Full Control Permissions
+### Step 3: Assign Full Control Permissions
 
 1. Select the new group that we just added "DayGroup". 
 2. Below, in the "Permissions for DayGroup"' section, in the "Allow" column, check **Full Control**. 
@@ -65,7 +65,7 @@ After adding DayGroup, it should look like this:
 
   Explaination: Checking **Full Control** grants the group complete access to the folder, enabling them to read, write, modify, and delete files as needed.
 
-4. Click **Apply** and then **OK** to finalize the changes for this folder.
+3. Click **Apply** and then **OK** to finalize the changes for this folder.
 (This step ensures that your updates take effect and that the specified permissions are enforced.)
 --------------------------------------
 
