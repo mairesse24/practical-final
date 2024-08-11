@@ -18,7 +18,7 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 
 1. Open **File Explorer** and navigate to the D:\ drive. 
       <a href='https://postimg.cc/DJz20XbM'>
-      <img src='https://i.postimg.cc/XJfX2KN4/file-explorer.png' alt='file-explorer' style="width: 60%; max-width: 700px;"/>
+      <img src='https://i.postimg.cc/XJfX2KN4/file-explorer.png' alt='file-explorer' style="width: 60%; max-width: 900px;"/>
   </a>
 
 2. Right-click on the `Day Data` folder and select **Properties**, then navigate to the **Security** tab.
@@ -40,14 +40,14 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
    
 ### Step 2: Removing the Users Group from the ACL and  Adding the Appropriate Group
 
-1. In the **Permission Entries** section, find and select the **Users** group, then click on the **Remove** button. Confirm its removal by selecting "OK."
+1. In the **Permission Entries** section, find and select the **Users** group, then click on the **Remove** button. Confirm its removal by selecting **OK**.
   <img src="https://i.postimg.cc/2yHWwdT3/remove-users-group.png" alt="Remove Users Group" style="width: 700px; height: 400px;">
 
   After removing users group, DayData properties should look like this:
-    <img src="https://i.postimg.cc/SK0MDxLL/after-removing-usergrp.png" alt="After Removing User Group" style="width: 700px; height: 400px;">
+    <img src="https://i.postimg.cc/SK0MDxLL/after-removing-usergrp.png" alt="After Removing User Group" style="width: 50%; height: 400px;">
 
-3. Click on **Edit** to introduce a new group to the ACL, then press "Add". 
-  <img src="https://i.postimg.cc/KjYkRkFb/press-add-for-new.png" alt="Press Add for New" style="width: 700px; height: 400px;">
+3. Click on **Edit** to introduce a new group to the ACL, then press **Add**. 
+  <img src="https://i.postimg.cc/KjYkRkFb/press-add-for-new.png" alt="Press Add for New" style="width: 50%; height: 400px;">
 
 4. In the **Enter the object names to select**, enter DayGroup, then click **Check Names** to validate, and click OK
   <img src="https://i.postimg.cc/T2k5B9q3/check-daygroup-name.png" alt="Check Daygroup Name" style="width: 600px; height: 300px;">
@@ -59,10 +59,10 @@ After adding DayGroup, it should look like this:
 ### Step 5: Assign Full Control Permissions
 
 1. Select the new group that we just added "DayGroup". 
-2. Below, in the "Permissions for DayGroup" section, in the "Allow" column, check **Full Control**. 
+2. Below, in the "Permissions for DayGroup"' section, in the "Allow" column, check **Full Control**. 
       <img src="https://i.postimg.cc/N0wKRPYp/check-full-for-daygrp.png" alt="Check Full for Daygrp" style="width: 50%; height: 485px;">
 
-  Explaination: Checking "Full Control" grants the group complete access to the folder, enabling them to read, write,           modify, and delete files as needed.
+  Explaination: Checking **Full Control** grants the group complete access to the folder, enabling them to read, write,           modify, and delete files as needed.
 
 4. Click **Apply** and then **OK** to finalize the changes for this folder.
 (This step ensures that your updates take effect and that the specified permissions are enforced.)
@@ -73,12 +73,12 @@ To set permissions for folder (`D:\Night Data` for NightGroup), repeat Steps 1 t
 
 1. **Access the Folder Properties**:
    - Right-click on the `D:\Night Data` folder
-   - Select "Properties."
-   - Go to the "Security" tab and disable inheritance
+   - Select **Properties**.
+   - Go to the **Security** tab and disable inheritance
 
 2. **Remove and add NightGroup, and set it permissions**:
-   - Select and remove "user".
-   - Add NightGroup and grant it permissions by checking on "Full Control" under the allow column
+   - Select and remove **user**.
+   - Add NightGroup and grant it permissions by checking on **Full Control** under the allow column
 
 Once doned setting permissions for Night Data, it should like this;
 <a href='https://postimages.org/' target='_blank'>
