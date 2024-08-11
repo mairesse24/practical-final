@@ -29,8 +29,7 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 3. Click on the **Advanced** button within the Security tab.
    ![daydata advance prop](https://github.com/user-attachments/assets/c7140689-2ba4-4e79-af46-dc2fd198297c)
 4. In the Advanced Security Settings, select Disable inheritance.
-     -This action ensures that the existing permissions are retained but can now be modified explicitly.
-or   (“This action keeps the current permissions but allows you to change them as needed.”)
+     -This action ensures that the existing permissions are kept and allows you to be modify them explicitly.
    ![daydate inheritence](https://github.com/user-attachments/assets/aeb8bb96-122c-4953-9972-e808c7b8f6ac)
    
 ### Step 2: Removing the Users Group from the ACL and  Adding the Appropriate Group
@@ -77,5 +76,9 @@ To set permissions for folder (`D:\Night Data` for NightGroup), repeat Steps 1 t
 Once doned setting permissions for Night Data, it should like this;
 ![Screenshot 2024-08-11 163705](https://github.com/user-attachments/assets/6a6e1528-ebd4-4ce9-8626-d7bd135340b6)
 
+https://imgur.com/a/xN6r80P
+
+
+
 ## Conclusion
-By following these steps, I configured NTFS permissions for `D:\Day Data` and `D:\Night Data` folders. This configuration ensured that each group has the necessary access while enhancing the overall security of the corporate network. The implementation of explicit permissions and the removal of the Users group prevents unauthorized access, making a significant contribution to the security posture of our organization. 
+By following these steps, I configured NTFS permissions for `D:\Day Data` and `D:\Night Data` folders. This configuration ensured that each group has the necessary access while enhancing the overall security of the corporate network. The implementation of explicit permissions and the removal of the Users group prevents unauthorized access, making a significant contribution to the security posture of the organization. 
