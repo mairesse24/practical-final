@@ -24,7 +24,9 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
          border='0' alt='Screenshot-2024-08-11-163705'/>
 </a>
 
-<a href="https://ibb.co/Gc977hd"><img src="https://i.ibb.co/hDcssqg/file-explorer.png" alt="file-explorer" border="0" /></a>
+<a href='https://postimg.cc/DJz20XbM' target='_blank'>
+    <img src='https://i.postimg.cc/XJfX2KN4/file-explorer.png' border='0' alt='file-explorer' style="width: 50%; max-width: 600px;"/>
+</a>
 
 2. Right-click on the `Day Data` folder and select **Properties**, then navigate to the **Security** tab.
   ![DayData properties](https://github.com/user-attachments/assets/5afb94ea-fd68-42ee-bb1a-1631156cdc7e)
