@@ -76,7 +76,7 @@ To set permissions for folder (`D:\Night Data` for NightGroup), repeat Steps 1 t
 Once doned setting permissions for Night Data, it should like this;
 ![Screenshot 2024-08-11 163705](https://github.com/user-attachments/assets/6a6e1528-ebd4-4ce9-8626-d7bd135340b6)
 
-https://imgur.com/a/xN6r80P
+<img src="https://i.postimg.cc/5XvjWLw5/Screenshot-2024-08-11-163705.png" alt="Night Data Permissions" style="width: 50%; max-width: 600px;">
 
 <img src="https://postimg.cc/5XvjWLw5" alt="Night Data Permissions" style="width: 50%; max-width: 600px;">
 
