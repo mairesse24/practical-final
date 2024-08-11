@@ -17,21 +17,19 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 ### Step 1: Access D:\Day Data Folder Properties and Turn Off Permissions Inheritance
 
 1. Open **File Explorer** and navigate to the D:\ drive. 
-  ![file explorer](https://github.com/user-attachments/assets/80c8b467-37c6-4f95-8aac-e99de91bf7ec)
-
   <a href='https://postimg.cc/DJz20XbM'>
       <img src='https://i.postimg.cc/XJfX2KN4/file-explorer.png' alt='file-explorer' style="width: 60%; max-width: 700px;"/>
   </a>
 
 2. Right-click on the `Day Data` folder and select **Properties**, then navigate to the **Security** tab.
-  ![DayData properties](https://github.com/user-attachments/assets/5afb94ea-fd68-42ee-bb1a-1631156cdc7e)
-
    <a href='https://postimg.cc/zH5FTq86' target='_blank'>
-      <img src='https://i.postimg.cc/BbP79vyS/Day-Data-properties.png' border='0' alt='Day Data Properties' style="width:               50%;  max-width: 600px;"/>
+      <img src='https://i.postimg.cc/BbP79vyS/Day-Data-properties.png' border='0' alt='Day Data Properties' style="width:               70%;  max-width: 800px;"/>
     </a>
    
    The cursor is placed in the properties section.
   ![Data security prop](https://github.com/user-attachments/assets/d1abaa8a-e518-42a7-bdfa-3becda4cb06d)
+
+<img src="https://i.postimg.cc/7LsyqfB0/Data-security-prop.png" alt="Data Security Prop" style="width: 50%; max-width: 600px;">
 
 4. Click on the **Advanced** button within the Security tab.
    ![daydata advance prop](https://github.com/user-attachments/assets/c7140689-2ba4-4e79-af46-dc2fd198297c)
