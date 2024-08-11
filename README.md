@@ -30,12 +30,13 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
    
       <img src="https://i.postimg.cc/7LsyqfB0/Data-security-prop.png" alt="Data Security Prop" style="width: 700px; height:             400px;">
 
-4. Click on the **Advanced** button within the Security tab.   
-   <img src="https://i.postimg.cc/HsBzZXjw/daydata-advance-prop.png" alt="Daydata Advance Prop" style="width: 700px; height:       400px;">
+3. Click on the **Advanced** button within the Security tab.   
+   <img src="https://i.postimg.cc/HsBzZXjw/daydata-advance-prop.png" alt="Daydata Advance Prop" style="width: 70%; height:       400px;">
 
 6. In the Advanced Security Settings, select Disable inheritance.
-     -This action ensures that the existing permissions are kept and allows you to be modify them explicitly.
-   <img src="https://i.postimg.cc/Njn4Yt6L/daydate-inheritence.png" alt="Daydate Inheritance" style="width: 700px; height:         400px;">
+
+   This action ensures that the existing permissions are kept and allows you to be modify them explicitly.
+   <img src="https://i.postimg.cc/Njn4Yt6L/daydate-inheritence.png" alt="Daydate Inheritance" style="width: 60%; height:         400px;">
    
 ### Step 2: Removing the Users Group from the ACL and  Adding the Appropriate Group
 
