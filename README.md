@@ -31,9 +31,7 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 
 <img src="https://i.postimg.cc/7LsyqfB0/Data-security-prop.png" alt="Data Security Prop" style="width: 50%; max-width: 600px;">
 
-<a href='https://postimg.cc/Y4WP3qBC' target='_blank'>
-    <img src='https://i.postimg.cc/7LsyqfB0/Data-security-prop.png' border='0' alt='Data Security Prop' style="width: 300px; height: 200px;">
-</a>
+<img src="https://i.postimg.cc/7LsyqfB0/Data-security-prop.png" alt="Data Security Prop" style="width: 900px; height: 700px;">
 
 4. Click on the **Advanced** button within the Security tab.
    ![daydata advance prop](https://github.com/user-attachments/assets/c7140689-2ba4-4e79-af46-dc2fd198297c)
