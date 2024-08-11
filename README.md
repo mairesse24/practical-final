@@ -25,20 +25,20 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
    <a href='https://postimg.cc/zH5FTq86' target='_blank'>
       <img src='https://i.postimg.cc/BbP79vyS/Day-Data-properties.png' border='0' alt='Day Data Properties' style="width:               70%;  max-width: 800px;"/>
     </a>
-   
+    
    The cursor is placed in the properties section.
-  ![Data security prop](https://github.com/user-attachments/assets/d1abaa8a-e518-42a7-bdfa-3becda4cb06d)
-
-<img src="https://i.postimg.cc/7LsyqfB0/Data-security-prop.png" alt="Data Security Prop" style="width: 50%; max-width: 600px;">
-
-<img src="https://i.postimg.cc/7LsyqfB0/Data-security-prop.png" alt="Data Security Prop" style="width: 900px; height: 700px;">
+      <img src="https://i.postimg.cc/7LsyqfB0/Data-security-prop.png" alt="Data Security Prop" style="width: 400px; height:             400px;">
 
 4. Click on the **Advanced** button within the Security tab.
    ![daydata advance prop](https://github.com/user-attachments/assets/c7140689-2ba4-4e79-af46-dc2fd198297c)
-----
-5. In the Advanced Security Settings, select Disable inheritance.
+   
+   <img src="https://i.postimg.cc/HsBzZXjw/daydata-advance-prop.png" alt="Daydata Advance Prop" style="width: 300px; height:       200px;">
+
+6. In the Advanced Security Settings, select Disable inheritance.
      -This action ensures that the existing permissions are kept and allows you to be modify them explicitly.
    ![daydate inheritence](https://github.com/user-attachments/assets/aeb8bb96-122c-4953-9972-e808c7b8f6ac)
+
+   <img src="https://i.postimg.cc/Njn4Yt6L/daydate-inheritence.png" alt="Daydate Inheritance" style="width: 300px; height: 200px;">
    
 ### Step 2: Removing the Users Group from the ACL and  Adding the Appropriate Group
 
