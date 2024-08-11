@@ -23,7 +23,7 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 
 2. Right-click on the `Day Data` folder and select **Properties**, then navigate to the **Security** tab.
    <a href='https://postimg.cc/zH5FTq86' target='_blank'>
-      <img src='https://i.postimg.cc/BbP79vyS/Day-Data-properties.png' border='0' alt='Day Data Properties' style="width:               70%;  max-width: 800px;"/>
+      <img src='https://i.postimg.cc/BbP79vyS/Day-Data-properties.png' border='0' alt='Day Data Properties' style="width:               65%;  max-width: 700px;"/>
     </a>
     
    The cursor is placed in the properties section.
