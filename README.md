@@ -37,7 +37,7 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 
    This action ensures that the existing permissions are kept and allows you to be modify them explicitly.
    
-         <img src="https://i.postimg.cc/Njn4Yt6L/daydate-inheritence.png" alt="Daydate Inheritance" style="width: 60%; height: 400px;">
+   <img src="https://i.postimg.cc/Njn4Yt6L/daydate-inheritence.png" alt="Daydate Inheritance" style="width: 60%; height: 400px;">
    
 ### Step 2: Removing the Users Group from the ACL and  Adding the Appropriate Group
 
