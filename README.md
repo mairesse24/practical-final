@@ -27,8 +27,7 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
     </a>
     
    The cursor is placed in the properties section.
-   
-      <img src="https://i.postimg.cc/7LsyqfB0/Data-security-prop.png" alt="Data Security Prop" style="width: 680px; height: 400px;">
+   <img src="https://i.postimg.cc/7LsyqfB0/Data-security-prop.png" alt="Data Security Prop" style="width: 680px; height: 400px;">
 
 3. Click on the **Advanced** button within the Security tab.   
    <img src="https://i.postimg.cc/HsBzZXjw/daydata-advance-prop.png" alt="Daydata Advance Prop" style="width: 70%; height: 400px;">
