@@ -19,6 +19,11 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 1. Open **File Explorer** and navigate to the D:\ drive. 
   ![file explorer](https://github.com/user-attachments/assets/80c8b467-37c6-4f95-8aac-e99de91bf7ec)
 
+<a href='https://postimages.org/' target='_blank'>
+    <img src='https://i.postimg.cc/y8pR9TxG/Screenshot-2024-08-11-163705.png' style='width: 50%; max-width: 600px;' 
+         border='0' alt='Screenshot-2024-08-11-163705'/>
+</a>
+
 <a href="https://ibb.co/Gc977hd"><img src="https://i.ibb.co/hDcssqg/file-explorer.png" alt="file-explorer" border="0" /></a>
 
 2. Right-click on the `Day Data` folder and select **Properties**, then navigate to the **Security** tab.
@@ -52,12 +57,18 @@ After adding DayGroup, it should look like this:
 1. Select the new group that we just added "DayGroup". 
 2. Below, in the "Permissions for DayGroup" section, in the "Allow" column, check **Full Control**. 
   ![chell full for daygrp](https://github.com/user-attachments/assets/6606d4fd-3285-4910-85eb-787c901e3e53)
+
+<a href='https://postimages.org/' target='_blank'>
+    <img src='https://i.postimg.cc/y8pR9TxG/Screenshot-2024-08-11-163705.png' style='width: 50%; max-width: 600px;' 
+         border='0' alt='Screenshot-2024-08-11-163705'/>
+</a>
+
 now explain why check full
 (Selecting "Full Control" grants users in the DayGroup comprehensive access to the folder, allowing them to read, write, modify, and delete files. This level of access is essential for effective folder management, particularly if the users need to update or manage the contents frequently.)
 or
 (Checking "Full Control" grants the group complete access to the folder, enabling them to read, write, modify, and delete files as needed. This is important for users who need comprehensive access to manage the contents of the folder effectively.)
 
-3. Click **Apply** and then **OK** to finalize the changes for this folder.
+4. Click **Apply** and then **OK** to finalize the changes for this folder.
 (This step ensures that your updates take effect and that the specified permissions are enforced.)
 --------------------------------------
 
@@ -74,15 +85,8 @@ To set permissions for folder (`D:\Night Data` for NightGroup), repeat Steps 1 t
    - Add NightGroup and grant it permissions by checking on "Full Control" under the allow column
 
 Once doned setting permissions for Night Data, it should like this;
-![Screenshot 2024-08-11 163705](https://github.com/user-attachments/assets/6a6e1528-ebd4-4ce9-8626-d7bd135340b6)
-
-<img src="https://i.postimg.cc/5XvjWLw5/Screenshot-2024-08-11-163705.png" alt="Night Data Permissions" style="width: 50%; max-width: 600px;">
-
-<img src="https://postimg.cc/5XvjWLw5" alt="Night Data Permissions" style="width: 50%; max-width: 600px;">
-
 <a href='https://postimages.org/' target='_blank'>
-    <img src='https://i.postimg.cc/y8pR9TxG/Screenshot-2024-08-11-163705.png' 
-         style='width: 50%; max-width: 600px;' 
+    <img src='https://i.postimg.cc/y8pR9TxG/Screenshot-2024-08-11-163705.png' style='width: 50%; max-width: 600px;' 
          border='0' alt='Screenshot-2024-08-11-163705'/>
 </a>
 
