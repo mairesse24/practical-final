@@ -59,7 +59,7 @@ After adding DayGroup, it should look like this:
 
 1. Select the new group that we just added "DayGroup". 
 2. Below, in the "Permissions for DayGroup" section, in the "Allow" column, check **Full Control**. 
-      <img src="https://i.postimg.cc/N0wKRPYp/check-full-for-daygrp.png" alt="Check Full for Daygrp" style="width: 50%; height: 400px;">
+      <img src="https://i.postimg.cc/N0wKRPYp/check-full-for-daygrp.png" alt="Check Full for Daygrp" style="width: 50%; height: 485px;">
 
   Explaination: Checking "Full Control" grants the group complete access to the folder, enabling them to read, write,           modify, and delete files as needed.
 
