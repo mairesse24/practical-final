@@ -83,10 +83,10 @@ To set permissions for folder (`D:\Night Data` for NightGroup), repeat Steps 1 t
 
 Once doned setting permissions for Night Data, it should like this;
 
-      <a href='https://postimages.org/' target='_blank'>
-          <img src='https://i.postimg.cc/y8pR9TxG/Screenshot-2024-08-11-163705.png' style='width: 45%; max-width: 600px;' 
-         border='0' alt='Screenshot-2024-08-11-163705'/>
-      </a>
+<a href='https://postimages.org/' target='_blank'>
+      <img src='https://i.postimg.cc/y8pR9TxG/Screenshot-2024-08-11-163705.png' style='width: 45%; max-width: 600px;' 
+      border='0' alt='Screenshot-2024-08-11-163705'/>
+</a>
 
 ## Conclusion
 By following these steps, I configured NTFS permissions for `D:\Day Data` and `D:\Night Data` folders. This configuration ensured that each group has the necessary access while enhancing the overall security of the corporate network. The implementation of explicit permissions and the removal of the Users group prevents unauthorized access, making a significant contribution to the security posture of the organization. 
