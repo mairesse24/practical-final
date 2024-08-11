@@ -77,7 +77,7 @@ Once doned setting permissions for Night Data, it should like this;
 ![Screenshot 2024-08-11 163705](https://github.com/user-attachments/assets/6a6e1528-ebd4-4ce9-8626-d7bd135340b6)
 
 https://imgur.com/a/xN6r80P
-
+<img src="https://i.imgur.com/xN6r80P.jpg" alt="Night Data Permissions" style="width: 50%; max-width: 600px;">
 
 
 ## Conclusion
