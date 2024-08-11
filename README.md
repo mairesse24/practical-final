@@ -53,7 +53,7 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 
 After adding DayGroup, it should look like this:
 
-  <img src="https://i.postimg.cc/QxHKDT0k/after-adding-Daygrp.png" alt="After Adding Daygrp" style="width: 50%; height: 300px;">
+  <img src="https://i.postimg.cc/QxHKDT0k/after-adding-Daygrp.png" alt="After Adding Daygrp" style="width: 50%; height: 500px;">
 
 ### Step 5: Assign Full Control Permissions
 
