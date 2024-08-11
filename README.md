@@ -6,7 +6,6 @@ for two user groups, **DayGroup** and **NightGroup**, each group need access to 
 This portfolio outlines the steps taken to configure these permissions, ensuring secure and appropriate access to the 
 corresponding folders: `D:\Day Data` and `D:\Night Data`.
 
-
 ## Goals
 1. Turn off permissions inheritance for each folder.
 2. Convert existing permissions to explicit permissions.
@@ -26,12 +25,6 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
   ![DayData properties](https://github.com/user-attachments/assets/5afb94ea-fd68-42ee-bb1a-1631156cdc7e)
    The cursor is placed in the properties section.
   ![Data security prop](https://github.com/user-attachments/assets/d1abaa8a-e518-42a7-bdfa-3becda4cb06d)
-
-<div style="display: flex; justify-content: space-around;">
-    <img src="https://github.com/user-attachments/assets/5afb94ea-fd68-42ee-bb1a-1631156cdc7e" alt="Day Data Properties" style="max-width: 20%;">
-    <img src="https://github.com/user-attachments/assets/d1abaa8a-e518-42a7-bdfa-3becda4cb06d" alt="Data Security Properties" style="max-width: 35%;">
-</div>
-
 
 3. Click on the **Advanced** button within the Security tab.
    ![daydata advance prop](https://github.com/user-attachments/assets/c7140689-2ba4-4e79-af46-dc2fd198297c)
@@ -82,7 +75,7 @@ To set permissions for folder (`D:\Night Data` for NightGroup), repeat Steps 1 t
    - Add NightGroup and grant it permissions by checking on "Full Control" under the allow column
 
 Once doned setting permissions for Night Data, it should like this;
+![Screenshot 2024-08-11 163705](https://github.com/user-attachments/assets/6a6e1528-ebd4-4ce9-8626-d7bd135340b6)
 
-
-## 
-By following these steps, I configured NTFS permissions for `D:\Day Data` and `D:\Night Data` folders. This configuration ensures that each group has the necessary access while enhancing the overall security of the corporate network. The implementation of explicit permissions and the removal of the Users group prevents unauthorized access, making a significant contribution to the security posture of our organization.     
+## Conclusion
+By following these steps, I configured NTFS permissions for `D:\Day Data` and `D:\Night Data` folders. This configuration ensured that each group has the necessary access while enhancing the overall security of the corporate network. The implementation of explicit permissions and the removal of the Users group prevents unauthorized access, making a significant contribution to the security posture of our organization. 
