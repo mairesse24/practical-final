@@ -28,8 +28,8 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
   ![Data security prop](https://github.com/user-attachments/assets/d1abaa8a-e518-42a7-bdfa-3becda4cb06d)
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github.com/user-attachments/assets/5afb94ea-fd68-42ee-bb1a-1631156cdc7e" alt="Day Data Properties" style="max-width: 45%;">
-    <img src="https://github.com/user-attachments/assets/d1abaa8a-e518-42a7-bdfa-3becda4cb06d" alt="Data Security Properties" style="max-width: 45%;">
+    <img src="https://github.com/user-attachments/assets/5afb94ea-fd68-42ee-bb1a-1631156cdc7e" alt="Day Data Properties" style="max-width: 20%;">
+    <img src="https://github.com/user-attachments/assets/d1abaa8a-e518-42a7-bdfa-3becda4cb06d" alt="Data Security Properties" style="max-width: 35%;">
 </div>
 
 
