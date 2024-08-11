@@ -18,17 +18,17 @@ corresponding folders: `D:\Day Data` and `D:\Night Data`.
 
 1. Open **File Explorer** and navigate to the D:\ drive. 
       <a href='https://postimg.cc/DJz20XbM'>
-      <img src='https://i.postimg.cc/XJfX2KN4/file-explorer.png' alt='file-explorer' style="width: 60%; max-width: 900px;"/>
+      <img src='https://i.postimg.cc/XJfX2KN4/file-explorer.png' alt='file-explorer' style="width: 70%; max-width: 900px;"/>
   </a>
 
 2. Right-click on the `Day Data` folder and select **Properties**, then navigate to the **Security** tab.
    <a href='https://postimg.cc/zH5FTq86' target='_blank'>
-      <img src='https://i.postimg.cc/BbP79vyS/Day-Data-properties.png' border='0' alt='Day Data Properties' style="width:               65%;  max-width: 700px;"/>
+      <img src='https://i.postimg.cc/BbP79vyS/Day-Data-properties.png' border='0' alt='Day Data Properties' style="width:               70%;  max-width: 700px;"/>
     </a>
     
    The cursor is placed in the properties section.
    
-      <img src="https://i.postimg.cc/7LsyqfB0/Data-security-prop.png" alt="Data Security Prop" style="width: 700px; height:             400px;">
+      <img src="https://i.postimg.cc/7LsyqfB0/Data-security-prop.png" alt="Data Security Prop" style="width: 680px; height:             400px;">
 
 3. Click on the **Advanced** button within the Security tab.   
    <img src="https://i.postimg.cc/HsBzZXjw/daydata-advance-prop.png" alt="Daydata Advance Prop" style="width: 70%; height:       400px;">
